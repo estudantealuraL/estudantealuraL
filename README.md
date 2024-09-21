@@ -4,7 +4,7 @@ o meu nome é leo
 
 Estou desenvolvendo scratch é Java script
 
-[cr7](https://media.tenor.com/ViagNTgzV0oAAAAi/kiss.gif)
+![](https://media.tenor.com/ViagNTgzV0oAAAAi/kiss.gif)
 
 meu **curriculo profissional**
 
